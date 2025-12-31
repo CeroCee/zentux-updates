@@ -6,12 +6,12 @@
     <title>Zentux Updates</title>
 
     <item>
-      <title>Zentux 1.0.6</title>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>Zentux 1.0.7</title>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://drive.google.com/uc?export=download&id=1fb9xzV2_fqy2fZeqUb_dqznuoxROit9Z"
+        url="https://drive.google.com/uc?export=download&id=1Jhgj3o97VMmrjuqEJ5eiebYWs16Numn-"
         sparkle:os="windows"
         type="application/octet-stream" />
     </item>
