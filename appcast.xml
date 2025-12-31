@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
+<?xml version="3.0" encoding="utf-8"?>
+<rss version="3.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Zentux Updates</title>
 
     <item>
-      <title>Zentux 1.0.7</title>
-      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <title>Zentux 1.0.8</title>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
       <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://drive.google.com/uc?export=download&id=1Jhgj3o97VMmrjuqEJ5eiebYWs16Numn-"
+        url="https://drive.google.com/uc?export=download&id=1HKcVyqpPxpDPgXYuZVt_7H5Dx7gVx6bt"
         sparkle:os="windows"
         type="application/octet-stream" />
     </item>
