@@ -8,12 +8,13 @@
     <language>es</language>
 
     <item>
-      <title>Zentux 1.0.4</title>
-      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+      <title>Zentux 1.0.5</title>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:version>1.0.5.0</sparkle:version>
+      <pubDate>Thu, 02 Jan 2026 00:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://drive.google.com/uc?export=download&id=1JU0Xp5BKQBgmv0l9eN6dS7FvvovYJE1k"
+        url="https://drive.google.com/uc?export=download&id=1nS24R5RLqEvbAWCA-01784TO_H7p716j"
         sparkle:os="windows"
         type="application/octet-stream" />
     </item>
