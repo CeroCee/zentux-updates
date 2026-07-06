@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.21/ZentuxClicker.exe",
-  "notes": "Mejoras de estabilidad, correcciones internas y detalles de presentacion de Zentux."
+  "version": "1.0.22",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.22/Zentux.v7.exe",
+  "notes": "Mejoras de presentacion: el ejecutable ahora se publica como Zentux v7."
 }
