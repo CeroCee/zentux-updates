@@ -8,14 +8,14 @@
     <language>es</language>
 
     <item>
-      <title>Zentux 1.0.6</title>
-      <pubDate>Thu, 02 Jan 2026 00:00:00 GMT</pubDate>
+      <title>Zentux 1.0.13</title>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://drive.google.com/uc?export=download&id=1ykdM8QTbufB8GpI8vIM9kONSRrpCbRc9"
+        url="https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.13/ZentuxClicker.exe"
         sparkle:os="windows"
-        sparkle:version="1.0.6"
-        sparkle:shortVersionString="1.0.6"
+        sparkle:version="1.0.13"
+        sparkle:shortVersionString="1.0.13"
         type="application/octet-stream"
         length="0" />
     </item>

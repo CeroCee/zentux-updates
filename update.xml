@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.3</version>
-  <url>https://drive.google.com/uc?export=download&id=1gTVSoS-C3Z2R5F74OK3E_aTXFs-tAY8U</url>
-  <changelog>Actualización automática</changelog>
+  <version>1.0.13</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.13/ZentuxClicker.exe</url>
+  <changelog>Agrega actualizaciones desde la app y corrige la deteccion de botones del mouse en Windows.</changelog>
 </item>
