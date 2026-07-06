@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.14/ZentuxClicker.exe",
-  "notes": "Actualizacion de prueba para validar el sistema automatico de updates."
+  "version": "1.0.15",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.15/ZentuxClicker.exe",
+  "notes": "Corrige la instalacion del update para reemplazar el ejecutable viejo y reiniciar la app."
 }
