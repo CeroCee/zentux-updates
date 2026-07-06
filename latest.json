@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.17/ZentuxClicker.exe",
-  "notes": "Usa la API de GitHub para buscar updates sin cache viejo y mantiene el reemplazo automatico del exe."
+  "version": "1.0.18",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.18/ZentuxClicker.exe",
+  "notes": "Permite que usuarios en versiones viejas instalen el update reemplazando automaticamente el exe original."
 }
