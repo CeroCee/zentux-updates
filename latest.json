@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.31/Zentux.v7.exe",
-  "notes": "Corrige el filtro de aplicaciones para evitar clicks fuera de las apps seleccionadas."
+  "version": "1.0.32",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.32/Zentux.v7.exe",
+  "notes": "Agrega indicador visual de actualizaciones disponibles en el boton de Actualizaciones."
 }
