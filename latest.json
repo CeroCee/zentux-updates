@@ -1,5 +1,5 @@
 {
-  "version": "1.0.30",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.30/Zentux.v7.exe",
-  "notes": "Reduce delay al disparar y evita pausas momentaneas del motor de autoclick."
+  "version": "1.0.31",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.31/Zentux.v7.exe",
+  "notes": "Corrige el filtro de aplicaciones para evitar clicks fuera de las apps seleccionadas."
 }
