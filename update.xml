@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.27</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.27/Zentux.v7.exe</url>
-  <changelog>Corrige que el click derecho pueda activar el autoclick cuando la activacion esta en click izquierdo.</changelog>
+  <version>1.0.28</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.28/Zentux.v7.exe</url>
+  <changelog>Evita que apuntar con click derecho active el autoclick cuando la activacion esta en click izquierdo.</changelog>
 </item>
