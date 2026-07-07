@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.24/Zentux.v7.exe",
-  "notes": "Mejora la velocidad y registro de clicks en juegos como Roblox."
+  "version": "1.0.25",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.25/Zentux.v7.exe",
+  "notes": "Corrige la activacion con Mouse 4/5 y mejora la compatibilidad del autoclick."
 }
