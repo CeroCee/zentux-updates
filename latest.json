@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.28/Zentux.v7.exe",
-  "notes": "Evita que apuntar con click derecho active el autoclick cuando la activacion esta en click izquierdo."
+  "version": "1.0.29",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.29/Zentux.v7.exe",
+  "notes": "Restaura la activacion correcta con Left Mouse y mantiene la separacion exacta de botones."
 }
