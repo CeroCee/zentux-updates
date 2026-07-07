@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.25</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.25/Zentux.v7.exe</url>
-  <changelog>Corrige la activacion con Mouse 4/5 y mejora la compatibilidad del autoclick.</changelog>
+  <version>1.0.26</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.26/Zentux.v7.exe</url>
+  <changelog>Aumenta el limite normal a 250 CPS y mejora la respuesta del click rapido.</changelog>
 </item>
