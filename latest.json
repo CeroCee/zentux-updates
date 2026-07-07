@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.32/Zentux.v7.exe",
-  "notes": "Agrega indicador visual de actualizaciones disponibles en el boton de Actualizaciones."
+  "version": "1.0.33",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.33/Zentux.v7.exe",
+  "notes": "Agrega inicio de sesion con Discord para licencias vinculadas."
 }
