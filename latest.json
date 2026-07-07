@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.23/Zentux.v7.exe",
-  "notes": "Corrige la deteccion del activador del mouse en configuraciones con Logitech o remapeos de botones."
+  "version": "1.0.24",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.24/Zentux.v7.exe",
+  "notes": "Mejora la velocidad y registro de clicks en juegos como Roblox."
 }

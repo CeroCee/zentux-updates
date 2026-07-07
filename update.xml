@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.23</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.23/Zentux.v7.exe</url>
-  <changelog>Corrige la deteccion del activador del mouse en configuraciones con Logitech o remapeos de botones.</changelog>
+  <version>1.0.24</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.24/Zentux.v7.exe</url>
+  <changelog>Mejora la velocidad y registro de clicks en juegos como Roblox.</changelog>
 </item>
