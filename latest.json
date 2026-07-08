@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.42/Zentux.v7.exe",
-  "notes": "Ajusta el estilo visual del boton SUPER OPTIMIZADO en Zentux Center."
+  "version": "1.0.43",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.43/Zentux.v7.exe",
+  "notes": "Agrega FPS Extremo dentro de SUPER OPTIMIZADO para apagar fondo y carga visual."
 }
