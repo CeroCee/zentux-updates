@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.34/Zentux.v7.exe",
-  "notes": "Mejora el inicio con Discord y muestra el motivo real si la licencia no se activa."
+  "version": "1.0.35",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.35/Zentux.v7.exe",
+  "notes": "Corrige la pantalla de cuenta para que la informacion de licencia no salga cortada."
 }
