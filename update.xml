@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.37</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.37/Zentux.v7.exe</url>
-  <changelog>Agrega modo SUPER OPTIMIZADO con interfaz pequena y solo controles esenciales.</changelog>
+  <version>1.0.38</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.38/Zentux.v7.exe</url>
+  <changelog>Reduce el impacto del autoclick en los FPS y baja el consumo del motor de clicks.</changelog>
 </item>
