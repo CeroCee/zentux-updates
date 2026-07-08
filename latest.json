@@ -1,5 +1,5 @@
 {
-  "version": "1.0.47",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.47/Zentux.v7.exe",
-  "notes": "Mejora el selector de Modo Turbo en SUPER OPTIMIZADO."
+  "version": "1.0.48",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.48/Zentux.v7.exe",
+  "notes": "Agrega Limpieza rapida automatica al activar SUPER OPTIMIZADO."
 }
