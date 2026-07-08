@@ -1,5 +1,5 @@
 {
-  "version": "1.0.39",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.39/Zentux.v7.exe",
-  "notes": "Mejora SUPER OPTIMIZADO para reducir aun mas el impacto en FPS mientras usa autoclick."
+  "version": "1.0.40",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.40/Zentux.v7.exe",
+  "notes": "Muestra el motivo real cuando Discord Login no desbloquea la aplicacion."
 }
