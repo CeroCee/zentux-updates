@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.40</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.40/Zentux.v7.exe</url>
-  <changelog>Muestra el motivo real cuando Discord Login no desbloquea la aplicacion.</changelog>
+  <version>1.0.41</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.41/Zentux.v7.exe</url>
+  <changelog>Mejora Discord Login para vincular la licencia guardada y mostrar errores de configuracion.</changelog>
 </item>
