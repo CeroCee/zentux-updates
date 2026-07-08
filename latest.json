@@ -1,5 +1,5 @@
 {
-  "version": "1.0.38",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.38/Zentux.v7.exe",
-  "notes": "Reduce el impacto del autoclick en los FPS y baja el consumo del motor de clicks."
+  "version": "1.0.39",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.39/Zentux.v7.exe",
+  "notes": "Mejora SUPER OPTIMIZADO para reducir aun mas el impacto en FPS mientras usa autoclick."
 }
