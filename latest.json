@@ -1,5 +1,5 @@
 {
-  "version": "1.0.45",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.45/Zentux.v7.exe",
-  "notes": "Refuerza FPS Extremo apagando mas animaciones temporales de Windows."
+  "version": "1.0.46",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.46/Zentux.v7.exe",
+  "notes": "Agrega Escalado FPS automatico en SUPER OPTIMIZADO con opciones 100%, 80%, 70% y 60%."
 }
