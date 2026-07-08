@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.33/Zentux.v7.exe",
-  "notes": "Agrega inicio de sesion con Discord para licencias vinculadas."
+  "version": "1.0.34",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.34/Zentux.v7.exe",
+  "notes": "Mejora el inicio con Discord y muestra el motivo real si la licencia no se activa."
 }
