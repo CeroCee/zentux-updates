@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.48</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.48/Zentux.v7.exe</url>
-  <changelog>Agrega Limpieza rapida automatica al activar SUPER OPTIMIZADO.</changelog>
+  <version>1.0.49</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.49/Zentux.v7.exe</url>
+  <changelog>Modo Turbo ahora inicia en 100% para evitar parpadeos en pantallas sensibles.</changelog>
 </item>
