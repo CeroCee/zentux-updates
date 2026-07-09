@@ -1,5 +1,5 @@
 {
-  "version": "1.0.49",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.49/Zentux.v7.exe",
-  "notes": "Modo Turbo ahora inicia en 100% para evitar parpadeos en pantallas sensibles."
+  "version": "1.0.50",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.50/Zentux.v7.exe",
+  "notes": "Resetea ajustes viejos de Modo Turbo a 100% para evitar cambios automaticos de resolucion."
 }
