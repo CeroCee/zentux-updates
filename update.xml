@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.50</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.50/Zentux.v7.exe</url>
-  <changelog>Resetea ajustes viejos de Modo Turbo a 100% para evitar cambios automaticos de resolucion.</changelog>
+  <version>1.0.51</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.51/Zentux.v7.exe</url>
+  <changelog>SUPER OPTIMIZADO ya no minimiza Zentux mientras el usuario esta configurando la interfaz.</changelog>
 </item>
