@@ -1,5 +1,5 @@
 {
-  "version": "1.0.55",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.55/Zentux.v7.exe",
-  "notes": "Agrega restauracion segura para evitar que Modo Turbo deje la resolucion aplicada si Zentux se cierra mal."
+  "version": "1.0.56",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.56/Zentux.v7.exe",
+  "notes": "Agrega una ventana moderna de progreso para que los clientes vean cuando Zentux se esta actualizando."
 }
