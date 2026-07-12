@@ -1,5 +1,5 @@
 {
-  "version": "1.0.57",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.57/Zentux.v7.exe",
-  "notes": "Agrega una notificacion pequena al abrir Zentux cuando haya una nueva actualizacion disponible."
+  "version": "1.0.58",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.58/Zentux.v7.exe",
+  "notes": "Ajusta los iconos pequenos del menu para que el texto quede centrado y no se corte."
 }
