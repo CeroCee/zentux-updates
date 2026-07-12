@@ -1,5 +1,5 @@
 {
-  "version": "1.0.52",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.52/Zentux.v7.exe",
-  "notes": "Reduce el tiron inicial al activar el autoclick en SUPER OPTIMIZADO."
+  "version": "1.0.53",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.53/Zentux.v7.exe",
+  "notes": "Agrega Perfiles Zentux para exportar, importar y compartir configuraciones con fondo y cursor."
 }
