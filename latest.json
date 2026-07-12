@@ -1,5 +1,5 @@
 {
-  "version": "1.0.58",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.58/Zentux.v7.exe",
-  "notes": "Ajusta los iconos pequenos del menu para que el texto quede centrado y no se corte."
+  "version": "1.0.59",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.59/Zentux.v7.exe",
+  "notes": "Corrige el espacio del icono de Actualizaciones para que el circulo no se vea recortado."
 }
