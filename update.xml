@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.67</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.67/Zentux.v7.exe</url>
-  <changelog>Refuerza Screen Magnifier centrado para no bloquear el movimiento de camara en ShiftLock.</changelog>
+  <version>1.0.68</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.68/Zentux.v7.exe</url>
+  <changelog>Elimina completamente la opcion Screen Magnifier de Zentux.</changelog>
 </item>
