@@ -1,5 +1,5 @@
 {
-  "version": "1.0.63",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.63/Zentux.v7.exe",
-  "notes": "Ajusta Screen Magnifier para que la opacidad no bloquee la camara y el size conserve el centro."
+  "version": "1.0.64",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.64/Zentux.v7.exe",
+  "notes": "Corrige Screen Magnifier para no bloquear la camara en Roblox al estar activa."
 }
