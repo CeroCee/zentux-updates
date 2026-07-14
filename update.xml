@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.62</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.62/Zentux.v7.exe</url>
-  <changelog>Corrige Screen Magnifier para mejorar compatibilidad visual en mas aplicaciones sin bloquear el mouse.</changelog>
+  <version>1.0.63</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.63/Zentux.v7.exe</url>
+  <changelog>Ajusta Screen Magnifier para que la opacidad no bloquee la camara y el size conserve el centro.</changelog>
 </item>
