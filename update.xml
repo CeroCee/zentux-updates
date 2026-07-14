@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.83</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.83/Zentux.v7.exe</url>
-  <changelog>Ajusta los textos de Auto Unjam para una presentacion mas limpia.</changelog>
+  <version>1.0.84</version>
+  <url>https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.84/Zentux.v7.exe</url>
+  <changelog>Agrega el menu South Bronx con Auto Unjam y elimina opciones que podian causar molestias.</changelog>
 </item>
