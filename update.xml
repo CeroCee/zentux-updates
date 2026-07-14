@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.60</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.60/Zentux.v7.exe</url>
-  <changelog>Agrega Screen Magnifier: una lupa visual centrada con zoom, hotkey, modo Hold/Toggle y opciones guardadas.</changelog>
+  <version>1.0.61</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.61/Zentux.v7.exe</url>
+  <changelog>Ajusta Screen Magnifier: permite lupa desde 40px y mejora el click-through para no bloquear la camara.</changelog>
 </item>
