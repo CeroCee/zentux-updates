@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.66</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.66/Zentux.v7.exe</url>
-  <changelog>Vuelve a centrar Screen Magnifier exactamente en el medio de la pantalla.</changelog>
+  <version>1.0.67</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.67/Zentux.v7.exe</url>
+  <changelog>Refuerza Screen Magnifier centrado para no bloquear el movimiento de camara en ShiftLock.</changelog>
 </item>
