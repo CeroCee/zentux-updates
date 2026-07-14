@@ -1,5 +1,5 @@
 {
-  "version": "1.0.61",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.61/Zentux.v7.exe",
-  "notes": "Ajusta Screen Magnifier: permite lupa desde 40px y mejora el click-through para no bloquear la camara."
+  "version": "1.0.62",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.62/Zentux.v7.exe",
+  "notes": "Corrige Screen Magnifier para mejorar compatibilidad visual en mas aplicaciones sin bloquear el mouse."
 }
