@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.69</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.69/Zentux.v7.exe</url>
-  <changelog>Evita abrir Zentux varias veces y restaura la ventana existente si estaba minimizada.</changelog>
+  <version>1.0.70</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.70/Zentux.v7.exe</url>
+  <changelog>Permite mover, minimizar y cerrar la app desde la pantalla de licencia.</changelog>
 </item>
