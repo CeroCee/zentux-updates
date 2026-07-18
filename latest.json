@@ -1,5 +1,5 @@
 {
-  "version": "1.0.77",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.77/Zentux.v7.exe",
-  "notes": "Agrega el logo de Zentux al inicio y accesos rapidos a Discord y la web."
+  "version": "1.0.78",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.78/Zentux.v7.exe",
+  "notes": "Ajusta el borde del inicio para que quede alineado con el contenido."
 }
