@@ -1,5 +1,5 @@
 {
-  "version": "1.0.72",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.72/Zentux.v7.exe",
-  "notes": "Mejora el inicio de sesion con Discord para mantener la cuenta iniciada, cambiar cuenta y cerrar sesion."
+  "version": "1.0.73",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.73/Zentux.v7.exe",
+  "notes": "Muestra la foto de perfil de Discord en la cuenta iniciada de Zentux."
 }
