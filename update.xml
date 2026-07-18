@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.75</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.75/Zentux.v7.exe</url>
-  <changelog>Quita la tarjeta de cuenta de Discord del inicio para mantener el acceso mas limpio.</changelog>
+  <version>1.0.76</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.76/Zentux.v7.exe</url>
+  <changelog>Rediseña el inicio de sesion para que sea mas limpio y ordenado.</changelog>
 </item>
