@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.74</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.74/Zentux.v7.exe</url>
-  <changelog>Rediseña la tarjeta de cuenta de Discord en Zentux Center para que resalte encima de todas las opciones.</changelog>
+  <version>1.0.75</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.75/Zentux.v7.exe</url>
+  <changelog>Quita la tarjeta de cuenta de Discord del inicio para mantener el acceso mas limpio.</changelog>
 </item>
