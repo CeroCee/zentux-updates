@@ -1,5 +1,5 @@
 {
-  "version": "1.0.70",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.70/Zentux.v7.exe",
-  "notes": "Permite mover, minimizar y cerrar la app desde la pantalla de licencia."
+  "version": "1.0.71",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.71/Zentux.v7.exe",
+  "notes": "Bloquea Zentux Center y el menu M mientras la app no esta desbloqueada."
 }
