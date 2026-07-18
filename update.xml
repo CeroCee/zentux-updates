@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.77</version>
-  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.77/Zentux.v7.exe</url>
-  <changelog>Agrega el logo de Zentux al inicio y accesos rapidos a Discord y la web.</changelog>
+  <version>1.0.78</version>
+  <url>https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.78/Zentux.v7.exe</url>
+  <changelog>Ajusta el borde del inicio para que quede alineado con el contenido.</changelog>
 </item>
