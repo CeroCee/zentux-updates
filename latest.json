@@ -1,5 +1,5 @@
 {
-  "version": "1.0.79",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.79/Zentux.v7.exe",
-  "notes": "El boton Buy License abre la pagina oficial de Zentux."
+  "version": "1.0.80",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.80/Zentux.v7.exe",
+  "notes": "Corrige MOV para que funcione de forma estable junto al autoclick y FPS Seguro."
 }
