@@ -1,5 +1,5 @@
 {
-  "version": "1.0.81",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.81/Zentux.v7.exe",
-  "notes": "Agrega Auto Unjam para enviar F automaticamente mientras el autoclick esta activo."
+  "version": "1.0.82",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.82/Zentux.v7.exe",
+  "notes": "Mejora Auto Unjam para enviar F mas rapido y compatible con juegos."
 }
