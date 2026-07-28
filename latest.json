@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
-  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.80/Zentux.v7.exe",
-  "notes": "Corrige MOV para que funcione de forma estable junto al autoclick y FPS Seguro."
+  "version": "1.0.81",
+  "downloadUrl": "https://github.com/CeroCee/zentux-releases1/releases/download/v1.0.81/Zentux.v7.exe",
+  "notes": "Agrega Auto Unjam para enviar F automaticamente mientras el autoclick esta activo."
 }
