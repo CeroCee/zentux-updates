@@ -1,6 +1,6 @@
 {
-  "version": "1.0.67",
-  "downloadUrl": "https://github.com/CeroCee/zentux-updates/releases/download/v1.0.67/ZentuxOptimizer-1.0.67.exe",
-  "sha256": "C843CA3E9D15477E0376F985986CCA60D21ACDC4926A61FD422F27E0DA2927F4",
-  "notes": "Corrige el icono del acceso directo de Zentux Roblox, mantiene la verificación de licencia y reúne las mejoras acumuladas desde la versión 1.0.61."
+  "version": "1.0.68",
+  "downloadUrl": "https://github.com/CeroCee/zentux-updates/releases/download/v1.0.68/ZentuxOptimizer-1.0.68.exe",
+  "sha256": "",
+  "notes": "Corrección del actualizador automático: evita bloqueos del archivo descargado y permite completar la instalación desde versiones anteriores."
 }
