@@ -1,6 +1,6 @@
 {
-  "version": "1.0.71",
-  "downloadUrl": "https://github.com/CeroCee/zentux-updates/releases/download/v1.0.71/ZentuxOptimizer.exe",
-  "sha256": "F06F85892E8C8320B6BB05D9998C1634FD0EC450ABF7777537534DD86093CC65",
-  "notes": "Presets FPS reconstruidos con flags gráficas permitidas; eliminadas las modificaciones de red, física, voz, identidad y telemetría. También se corrigió el selector de Visual Enhancer para mostrar correctamente todos los textos."
+  "version": "1.0.77",
+  "downloadUrl": "https://github.com/CeroCee/zentux-updates/releases/download/v1.0.77/ZentuxOptimizer.exe",
+  "sha256": "41E113BD769EF0EE3385689183AE2206D7E62BB5CF6E893ED146ECFEE1329269",
+  "notes": "Corrige las listas desplegables que conservaban visualmente la selección anterior. Las opciones de Roblox y Visual Enhancer ahora actualizan su valor inmediatamente y mantienen la selección conectada correctamente al estado guardado."
 }
