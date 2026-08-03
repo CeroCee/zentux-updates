@@ -1,5 +1,5 @@
 <item>
-  <version>1.0.85</version>
-  <url>https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.85/Zentux.v7.exe</url>
-  <changelog>Mejora la velocidad de respuesta de Auto Unjam.</changelog>
+  <version>1.0.86</version>
+  <url>https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.86/Zentux.v7.exe</url>
+  <changelog>Agrega sonido de entrada al abrir Zentux.</changelog>
 </item>

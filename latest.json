@@ -1,5 +1,5 @@
 {
-  "version": "1.0.85",
-  "downloadUrl": "https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.85/Zentux.v7.exe",
-  "notes": "Mejora la velocidad de respuesta de Auto Unjam."
+  "version": "1.0.86",
+  "downloadUrl": "https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.86/Zentux.v7.exe",
+  "notes": "Agrega sonido de entrada al abrir Zentux."
 }
