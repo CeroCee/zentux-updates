@@ -8,14 +8,14 @@
     <language>es</language>
 
     <item>
-      <title>Zentux 1.0.84</title>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <title>Zentux 1.0.85</title>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.84/Zentux.v7.exe"
+        url="https://raw.githubusercontent.com/CeroCee/zentux-releases1/main/v1.0.85/Zentux.v7.exe"
         sparkle:os="windows"
-        sparkle:version="1.0.84"
-        sparkle:shortVersionString="1.0.84"
+        sparkle:version="1.0.85"
+        sparkle:shortVersionString="1.0.85"
         type="application/octet-stream"
         length="88936685" />
     </item>
